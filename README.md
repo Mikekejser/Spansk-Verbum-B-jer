@@ -1,5 +1,5 @@
 # Spansk-Verbum-Boejer
-Denne kode bøjer automatisk spanske verber.
+Script til automatisk at bøje spanske verber.
 
 Giv programmet et verbum på kommando linjen og det vil automatisk bøje verbet i de mest gængse tider og måder.
 Herefter skriver programmet dem til en fil af samme navn som verbet.
